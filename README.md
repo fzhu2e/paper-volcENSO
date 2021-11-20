@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/430140035.svg)](https://zenodo.org/badge/latestdoi/430140035)
+
 # Data & code repository for *A re-appraisal of the ENSO response to volcanism with paleoclimate data assimilation*
 
 This repository includes the data and code that can be used to reproduce the figures for the paper entitled *A re-appraisal of the ENSO response to volcanism with paleoclimate data assimilation*.
@@ -44,3 +46,6 @@ The code is tested with Python v3.8, and the package [LMRt](https://github.com/f
 + Tierney, J. E., Abram, N. J., Anchukaitis, K. J., Evans, M. N., Giry, C., Kilbourne, K. H., et al. (2015). Tropical sea surface temperatures for the past four centuries reconstructed from coral archives. Paleoceanography, 30(3), 2014PA002717. https://doi.org/10.1002/2014PA002717
 + Toohey, M., & Sigl, M. (2017). Volcanic stratospheric sulfur injections and aerosol optical depth from 500 BCE to 1900 CE. Earth System Science Data, 9(2), 809–831. https://doi.org/10.5194/essd-9-809-2017
 + Zhu, F., Emile-Geay, J. Hakim, G. J., Tardif, R., and Perkins., A., (2021). LMR Turbo (LMRt): a lightweight implementation of the LMR framework (0.8.0). Zenodo. http://doi.org/10.5281/zenodo.5205223
+
+## How to cite this repo
+This repo can be cited with [DOI: 10.5281/zenodo.5716165](https://doi.org/10.5281/zenodo.5716165).
