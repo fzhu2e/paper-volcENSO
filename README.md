@@ -2,7 +2,7 @@
 
 # Data & code repository for *A re-appraisal of the ENSO response to volcanism with paleoclimate data assimilation*
 
-This repository includes the data and code that can be used to reproduce the figures for the paper entitled *A re-appraisal of the ENSO response to volcanism with paleoclimate data assimilation*.
+This repository includes the data and code that can be used to reproduce the figures for the paper entitled *A re-appraisal of the ENSO response to volcanism with paleoclimate data assimilation* ([DOI: 10.1038/s41467-022-28210-1](https://doi.org/10.1038/s41467-022-28210-1)).
 
 The code is tested with Python v3.8, and the package [LMRt](https://github.com/fzhu2e/LMRt) (Zhu et. al., 2021) is required to perform essential analysis (e.g. Superposed Epoch Analysis) and the corresponding visualization.
 
